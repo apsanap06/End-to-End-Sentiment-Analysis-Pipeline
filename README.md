@@ -50,3 +50,4 @@ By applying data consolidation (grouping micro-emotions into macro-sentiments) a
 ## 💻 How to Run the Project
 1. Clone this repository:
    ```bash
+   git clone https://github.com/apsanap06/End-to-End-Sentiment-Analysis-Pipeline.git
